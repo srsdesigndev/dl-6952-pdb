@@ -31,7 +31,7 @@ Source: [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/data
 
 ## Project Plan
 
-See [PROJECT_PLAN.md](./PROJECT_PLAN.md) for the full phase breakdown, hyperparameter guide, and progress tracking.
+See [PROJECT_PLAN.md](./development/project_plan.md) for the full phase breakdown, hyperparameter guide, and progress tracking.
 
 ---
 
